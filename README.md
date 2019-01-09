@@ -42,7 +42,7 @@ var obj = {
 <h4>示例</h4>
 dynamicAssignment(obj, arr, 3);
 console.log('obj', obj);
-<!-- { 
+{ 
     a: { 
         b: {
             c: 3
@@ -51,9 +51,9 @@ console.log('obj', obj);
     }, 
     d: [], 
     e: 'la' 
-} -->
+}
 dynamicAssignment(obj, ['a', 'n'], 'new');
-<!-- { 
+{ 
     a: { 
         b: {
             c: 3
@@ -62,7 +62,7 @@ dynamicAssignment(obj, ['a', 'n'], 'new');
     }, 
     d: [], 
     e: 'la' 
-} -->
+}
 
 解决重复劳动力是一件很有意义的事情，
 有什么好的想法，欢迎一起成长交流

@@ -1,6 +1,6 @@
 {
   "name": "dynamic-assignment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "n级对象动态赋值",
   "main": "index.js",
   "scripts": {
