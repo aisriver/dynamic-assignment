@@ -1,0 +1,26 @@
+{
+  "name": "dynamic-assignment",
+  "version": "1.0.0",
+  "description": "n级对象动态赋值",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aisriver/dynamic-assignment.git"
+  },
+  "keywords": [
+    "array",
+    "object",
+    "dynamic-assignment",
+    "dynamic",
+    "assignment"
+  ],
+  "author": "Jared",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aisriver/dynamic-assignment/issues"
+  },
+  "homepage": "https://github.com/aisriver/dynamic-assignment#readme"
+}
